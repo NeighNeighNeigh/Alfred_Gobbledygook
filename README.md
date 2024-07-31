@@ -7,4 +7,4 @@ A pseudo-random text generator for Alfred.
 Workflow will generate 1 paragraph of pseudo-random gibberish.
 
 ## Use the keyword 'gob' followed by a number (eg 'gob5')
-Workflow will generate that many paragaphs of nonsense.
+Workflow will generate that many paragraphs of nonsense.
